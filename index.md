@@ -13,13 +13,13 @@ I am very proud of the following achievements in the ICPC:
 - **Southern California Regional Champion**
 - **North America West Champion**
 
-![ICPC Team Photo](images/NAC.jpg)
-
 Find me on [Codeforces](https://codeforces.com/profile/ZhouShang2003) to see more about my competitive programming profile.
 
 ## About Me
 
 Hi, I am Shang Zhou. I am passionate about competitive programming and software development. Participating in ICPC has allowed me to improve my coding skills, work under pressure, and effectively collaborate with my team.
+
+![My Photo](images/photo.jpg)
 
 ## My Projects
 

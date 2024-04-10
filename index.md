@@ -11,7 +11,7 @@ Hello! I am a competitive programmer who has participated in the International C
 I am very proud of the following achievements in the ICPC:
 
 - **Southern California Regional Champion**
-- **North America West Champion**
+- **North America West Division Champion**
 
 Find me on [Codeforces](https://codeforces.com/profile/ZhouShang2003) to see more about my competitive programming profile.
 
@@ -30,7 +30,7 @@ Besides competitive programming, I also enjoy working on software development pr
 ## Goals
 
 - [x] Win the Southern California Regional Championship
-- [x] Win the North America West Championship
+- [x] Win the North America West Division Championship
 - [ ] Participate in the ICPC World Finals
 
 ## Contact Me

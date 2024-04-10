@@ -1,6 +1,6 @@
 # Welcome to My User Page
 
-Hello! I am a competitive programmer who has participated in the International Collegiate Programming Contest (ICPC). I am excited to share some of my achievements and experiences with you
+Hello! I am a competitive programmer who has participated in the International Collegiate Programming Contest (ICPC). I am excited to share some of my achievements and experiences with you.
 - [Achievements](#achievements)
 - [About Me](#about-me)
 - [My Projects](#my-projects)

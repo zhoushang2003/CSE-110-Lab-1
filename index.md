@@ -17,7 +17,7 @@ Find me on [Codeforces](https://codeforces.com/profile/ZhouShang2003) to see mor
 
 ## About Me
 
-Hello, My name is Shang Zhou. I am passionate about competitive programming and software development. Participating in ICPC has allowed me to improve my coding skills, work under pressure, and effectively collaborate with my team.
+My name is Shang Zhou. I am passionate about competitive programming and software development. Participating in ICPC has allowed me to improve my coding skills, work under pressure, and effectively collaborate with my team.
 
 <img src="images/photo.jpg" alt="My Photo" width="40%" />
 

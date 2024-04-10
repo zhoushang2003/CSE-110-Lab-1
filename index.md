@@ -13,7 +13,7 @@ I am very proud of the following achievements in the ICPC:
 - **Southern California Regional Champion**
 - **North America West Champion**
 
-[ICPC Team Photo](pictures/NAC.jpg)
+[ICPC Team Photo](images/NAC.jpg)
 
 Find me on [Codeforces](https://codeforces.com/profile/ZhouShang2003) to see more about my competitive programming profile.
 

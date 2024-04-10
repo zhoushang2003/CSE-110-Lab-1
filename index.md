@@ -5,6 +5,7 @@ Hello! I am a competitive programmer who has participated in the International C
 - [About Me](#about-me)
 - [My Projects](#my-projects)
 - [Goals](#goals)
+- [Contact Me](#contact-me)
 
 ## Achievements
 
